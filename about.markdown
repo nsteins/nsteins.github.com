@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a data scientist and designer working at [IDEO](https://www.ideo.com) in Chicago and occasional [DataKind](https://www.datakind.org) volunteer. I'm interested in using data and simulations to grok systemic challenges and solutions. I want to help build a better and more equitable world, particularly one that isn't completely ravaged by the devastating effects of climate change. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm also a lapsed physicist, Carly Rae Jepsen fanatic and aspiring emo musician.
