@@ -8,7 +8,11 @@ tags: []
 summary: 
 ---
 
-One of the areas where individual lifestyle choice can have the biggest impact on carbon emissions is the choice of what one eats. [Project Drawdown](https://www.drawdown.org/solutions/plant-rich-diets) identifies plant-rich diets as one of the highest impact solutions for reaching net zero carbon emissions. I was inspired by [a post from Our World in Data](https://ourworldindata.org/food-choice-vs-eating-local?fbclid=IwAR3qXr0To6JrKpMtu9tCptAr7MtPWra2x3kH-F-SG5Z7Mv2doZ9tczHPKFs) which visualizes [the results of a study by Poore and Nemecek](https://science.sciencemag.org/content/360/6392/987) on the end-to-end emissions produced by different food items. 
+One of the areas where individual lifestyle choice can have the biggest impact on carbon emissions is the choice of what one eats. [Project Drawdown](https://www.drawdown.org/solutions/plant-rich-diets) identifies plant-rich diets as one of the highest impact solutions for reaching net zero carbon emissions. I wanted to understand not only the impact of the food I eat, but understand how to easily make better choices, without getting overwhelmed by the complexity of the problem. And I wanted to find a way to share that information with others who want to do the same in a way that will actually support behavior change.
+
+<!--more-->
+
+I was inspired by [a post from Our World in Data](https://ourworldindata.org/food-choice-vs-eating-local?fbclid=IwAR3qXr0To6JrKpMtu9tCptAr7MtPWra2x3kH-F-SG5Z7Mv2doZ9tczHPKFs) which visualizes [the results of a study by Poore and Nemecek](https://science.sciencemag.org/content/360/6392/987) on the end-to-end emissions produced by different food items. 
 
 
 ![Original visualization of environmental impact of food by life cycle from Our World in Data](https://ourworldindata.org/uploads/2020/02/Environmental-impact-of-food-by-life-cycle-stage.png)
