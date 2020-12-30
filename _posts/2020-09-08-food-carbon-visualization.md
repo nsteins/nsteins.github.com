@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Visualizing the Carbon Impact of Foods
 date: 2020-09-08 12:10
 category: 
